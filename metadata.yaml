@@ -1,9 +1,8 @@
 _repo: Voyage-en-Egypte-et-en-Syrie-Tome-2_46469
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46469/46469-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46469-h/images/cover.jpg
 creator:
   author:
     agent_name: Volney, C.-F. (Constantin-François)
@@ -18,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Constantin-Fran%C3%A7ois_Chasseb%C5%93uf
     - http://fr.wikipedia.org/wiki/Volney
 description: Tome 3 des Œuvres de C. Volney
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46469#Voyage-en-Egypte-et-en-Syrie-Tome-2
 gutenberg_bookshelf: FR Voyages et pays
 gutenberg_issued: '2014-08-01'
 gutenberg_type: Text
